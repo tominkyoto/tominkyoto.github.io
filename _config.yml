@@ -1,2 +1,4 @@
 	name: Tom in Kyoto, Polyglot 
 	markdown: kramdown
+	
+	permalink: /blog/:year/:month/:day/:title
