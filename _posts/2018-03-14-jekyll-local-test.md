@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Jekyll Local Test"
 date: 2018-03-14
 ---
